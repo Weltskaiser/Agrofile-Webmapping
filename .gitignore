@@ -1,0 +1,16 @@
+bazar/
+kml/
+qgis2web_2023_06_21-19_33_10_063691/
+*.cpg
+*.dbf
+*.prj
+*.qmd
+*.shp
+*.shx
+*.kml
+*.txt
+*.json
+*.csv
+*.zip
+*.qgs
+*.qgs~
